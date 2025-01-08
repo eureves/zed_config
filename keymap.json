@@ -1,0 +1,9 @@
+[
+  {
+    "context": "vim_mode == normal",
+    "bindings": {
+      "tab": "pane::ActivateNextItem",
+      "shift-tab": "pane::ActivatePrevItem"
+    }
+  }
+]
