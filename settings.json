@@ -15,6 +15,9 @@
   "indent_guides": {
     "enabled": false
   },
+  "gutter": {
+    "line_numbers": false
+  },
   "theme": {
     "mode": "system",
     "light": "One Light",
